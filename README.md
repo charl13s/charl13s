@@ -1,46 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
-</p>
+<!-- ░░ CHARLES MURAGE · API REFERENCE ░░ -->
 
-# Hi there, I'm Charles Murage 👋
+<div align="center">
 
-I am an Informatics and Computer Science student at Strathmore University. I am deeply passionate about full-stack software development and financial technology integration, focusing on building secure financial transactions, API gateways, and mobile money interoperability.
+![header](https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=2E7D54&center=true&vCenter=true&width=560&height=50&lines=curl+-s+%2Fcharles%2Fabout+%7C+jq)
 
-- 🔭 **Current Focus:** Developing "WasaaLifestyle OS," a wallet and escrow payment system for unstructured mobile money payments
-- 🌱 **Learning & Exploration:** Deepening my expertise in the M-Pesa Daraja API, WSO2, T24 core banking systems, and advanced full-stack architectures.
-- ⚡ **Core Interests:** FinTech Integration, Full-Stack Web & Mobile Development, Digital Payment Systems, and API Design & Testing.
+# Charles Murage
+`// full-stack & fintech engineer · strathmore university`
 
----
-
-## Technical Ecosystem
-
-### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 ---
 
-## GitHub Stats
+### `GET` /charles/about → `200 OK`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charl13s&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl13s&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&hide=html" alt="Top Languages" />
+```json
+{
+  "focus":    "WasaaLifestyle OS — wallet + escrow",
+  "domain":   "mobile-money interoperability",
+  "learning": ["M-Pesa Daraja", "WSO2", "T24 core banking"],
+}
+```
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charl13s&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-</p>
+### `GET` /charles/stack → `200 OK`
 
----
+![Kotlin](https://img.shields.io/badge/Kotlin-1B1916?style=flat-square&logo=kotlin&logoColor=1F4E8C)
+![FastAPI](https://img.shields.io/badge/FastAPI-1B1916?style=flat-square&logo=fastapi&logoColor=1F4E8C)
+![React Native](https://img.shields.io/badge/React_Native-1B1916?style=flat-square&logo=react&logoColor=1F4E8C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1916?style=flat-square&logo=postgresql&logoColor=1F4E8C)
+![Firebase](https://img.shields.io/badge/Firebase-1B1916?style=flat-square&logo=firebase&logoColor=1F4E8C)
+![M-Pesa Daraja](https://img.shields.io/badge/M--Pesa_Daraja-1B1916?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-1B1916?style=flat-square&logo=postman&logoColor=1F4E8C)
+![Git](https://img.shields.io/badge/Git-1B1916?style=flat-square&logo=git&logoColor=1F4E8C)
+![VS Code](https://img.shields.io/badge/VS_Code-1B1916?style=flat-square&logo=visualstudiocode&logoColor=1F4E8C)
 
-## Connect With Me
+### `GET` /charles/metrics
 
-- 💼 **Professional Network:** [LinkedIn Profile](Insert_Your_LinkedIn_Link_Here)
-- 📧 **Direct Contact:** [Insert_Your_Email_Here]
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=charl13s&show_icons=true&hide_border=true&bg_color=F4F1E8&title_color=1F4E8C&icon_color=1F4E8C&text_color=1B1916)
+&nbsp;
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charl13s&layout=compact&hide_border=true&bg_color=F4F1E8&title_color=1F4E8C&text_color=1B1916&hide=html)
+
+</div>
+
+### `POST` /charles/connect
+
+[![LinkedIn](https://img.shields.io/badge/→_linkedin.com%2Fin%2Fcharles--murage-1B1916?style=flat-square&logo=linkedin&logoColor=1F4E8C)](https://www.linkedin.com/in/charles-murage-8858b5271/)
